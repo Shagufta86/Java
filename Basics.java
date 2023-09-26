@@ -2,6 +2,7 @@ package LocalRepo;
 
 public class Basics {
         public static void main(String[] args) {
+             //////////  VARIABLE  ////////    
             int a = 20;
             int b = 10;
             int sum = a + b;
